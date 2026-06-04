@@ -1,0 +1,12 @@
+{
+"AutoBuy": true,
+"Pets": [
+{
+"pet": "Mimic Octopus",
+"price": 70,
+"minWeight": 0,
+"minLevel": 1,
+"mutation": ""
+}
+]
+}
