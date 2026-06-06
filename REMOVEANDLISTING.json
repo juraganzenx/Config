@@ -1,22 +1,17 @@
 {
   "pets": [
     {
-      "Name": "Peryton",
-      "Price": 1800,
-      "BaseWeight": 5.7,
-      "Min_KG": 1
+      "Name": "Mimic Octopus",
+      "Price": 1750,
+      "BaseWeight": 5.8,
+      "Min_KG": 69
     },
     {
       "Name": "Disco Bee",
       "Price": 5000,
       "BaseWeight": 10,
       "Min_KG": 0
-    },
-    {
-      "Name": "Peryton",
-      "Price": 1800,
-      "BaseWeight": 0,
-      "Min_KG": 1
     }
+    
   ]
 }
