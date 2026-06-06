@@ -2,7 +2,7 @@
   "pets": [
     {
       "Name": "Mimic Octopus",
-      "Price": 1750,
+      "Price": 1700,
       "BaseWeight": 5.8,
       "Min_KG": 69
     },
