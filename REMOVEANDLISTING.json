@@ -3,13 +3,13 @@
     {
       "Name": "Mimic Octopus",
       "Price": 1699,
-      "BaseWeight": 5.8,
+      "BaseWeight": 0,
       "Min_KG": 69
     },
     {
       "Name": "Disco Bee",
       "Price": 5000,
-      "BaseWeight": 10,
+      "BaseWeight": 0,
       "Min_KG": 0
     }
     
