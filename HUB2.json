@@ -3,5 +3,6 @@
     "SellAll": true,
     "SpeedHub": false,
     "BuyPet": true,
-    "ToGarden": true
+    "ToGarden": true,
+    "CollectSeed": true
 }
