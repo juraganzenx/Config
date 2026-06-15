@@ -6,5 +6,6 @@
     "ToGarden": true,
     "CollectSeed": true,
     "NotifDiscord": true,
-    "HopIf12M": true
+    "HopIf12M": true,
+    "AutoTrade": true
 }
