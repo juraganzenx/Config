@@ -7,5 +7,6 @@
     "CollectSeed": true,
     "NotifDiscord": false,
     "HopIf12M": true,
-    "AutoTrade": true
+    "AutoTrade": true,
+    "TradeSeed": false
 }
