@@ -4,7 +4,7 @@
     "SpeedHub": false,
     "BuyPet": true,
     "ToGarden": true,
-    "CollectSeed": false,
+    "CollectSeed": true,
     "NotifDiscord": false,
     "HopIf12M": true,
     "AutoTrade": true,
