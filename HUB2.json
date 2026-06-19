@@ -11,5 +11,5 @@
     "TradeSeed": false,
     "DestroyPlot": true,
     "BuySeed": true,
-    "AutoPlant": false
+    "AutoPlant": true
 }
