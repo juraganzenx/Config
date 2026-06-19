@@ -8,5 +8,6 @@
     "NotifDiscord": false,
     "HopIf12M": true,
     "AutoTrade": true,
-    "TradeSeed": false
+    "TradeSeed": false,
+    "DestroyPlot": true,
 }
