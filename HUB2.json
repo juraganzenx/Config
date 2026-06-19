@@ -9,5 +9,6 @@
     "HopIf12M": true,
     "AutoTrade": true,
     "TradeSeed": false,
-    "DestroyPlot": true
+    "DestroyPlot": true,
+    "BuySeed": true
 }
