@@ -12,7 +12,7 @@
     "DestroyPlot": true,
     "BuySeed": true,
     "BuyGear": true,
-    "AutoPlant": false,
+    "AutoPlant": true,
     "TradeSprinklerAndCan": true,
     "PlaceSprinkler": true
 }
