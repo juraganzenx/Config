@@ -5,7 +5,7 @@
     "BuyPet": false,
     "ToGarden": false,
     "CollectSeed": false,
-    "NotifDiscord": false,
+    "NotifDiscord": true,
     "HopIf12M": false,
     "AutoTrade": false,
     "TradeSeed": false,
