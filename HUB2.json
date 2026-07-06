@@ -1,18 +1,18 @@
 {
     "HarvestAll": true,
-    "SellAll": true,
-    "SpeedHub": false,
-    "BuyPet": true,
-    "ToGarden": true,
-    "CollectSeed": true,
+    "SellAll": false,
+    "SpeedHub": true,
+    "BuyPet": false,
+    "ToGarden": false,
+    "CollectSeed": false,
     "NotifDiscord": false,
-    "HopIf12M": true,
-    "AutoTrade": true,
+    "HopIf12M": false,
+    "AutoTrade": false,
     "TradeSeed": false,
     "DestroyPlot": true,
     "BuySeed": true,
     "BuyGear": true,
     "AutoPlant": false,
-    "TradeSprinklerAndCan": true,
-    "PlaceSprinkler": true
+    "TradeSprinklerAndCan": false,
+    "PlaceSprinkler": false
 }
