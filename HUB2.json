@@ -1,7 +1,7 @@
 {
     "HarvestAll": true,
     "SellAll": true,
-    "SpeedHub": false,
+    "SpeedHub": true,
     "BuyPet": false,
     "ToGarden": false,
     "CollectSeed": false,
