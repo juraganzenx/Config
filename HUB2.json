@@ -9,7 +9,7 @@
     "HopIf12M": false,
     "AutoTrade": false,
     "TradeSeed": false,
-    "DestroyPlot": false,
+    "DestroyPlot": true,
     "BuySeed": true,
     "BuyGear": true,
     "AutoPlant": false,
