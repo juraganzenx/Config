@@ -3,7 +3,7 @@
     "SellAll": true,
     "SpeedHub": true,
     "BuyPet": false,
-    "ToGarden": false,
+    "ToGarden": true,
     "CollectSeed": true,
     "NotifDiscord": false,
     "HopIf12M": false,
