@@ -13,6 +13,6 @@
     "BuySeed": true,
     "BuyGear": true,
     "AutoPlant": false,
-    "TradeSprinklerAndCan": false,
+    "TradeSprinklerAndCan": true,
     "PlaceSprinkler": false
 }
