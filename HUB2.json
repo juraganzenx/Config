@@ -2,7 +2,7 @@
     "HarvestAll": true,
     "SellAll": true,
     "SpeedHub": true,
-    "BuyPet": true,
+    "BuyPet": false,
     "ToGarden": true,
     "CollectSeed": false,
     "NotifDiscord": false,
