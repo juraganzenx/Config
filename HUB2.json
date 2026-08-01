@@ -1,5 +1,5 @@
 {
-    "HarvestAll": true,
+    "HarvestAll": false,
     "SellAll": true,
     "SpeedHub": true,
     "BuyPet": false,
