@@ -1,1 +1,11 @@
-
+{
+    "HatchEgg": "Zen Egg",
+    "SellPets": [
+        "Shiba Inu",
+        "Tanchozuru",
+        "Tanuki",
+        "Nihonzaru",
+        "Kappa"
+    ],
+    "SellKG": 3.6
+}
